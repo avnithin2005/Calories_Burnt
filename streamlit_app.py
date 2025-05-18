@@ -93,6 +93,6 @@ elif options == 'About':
 
     st.header('Contact')
     st.write('You can contact me for any queries or feedback:')
-    st.write('Email: gokulnpc@gmail.com')
-    st.write('LinkedIn: [Gokuleshwaran Narayanan](https://www.linkedin.com/in/gokulnpc/)')
+    st.write('Email: avnithin2005@gmail.com')
+    st.write('LinkedIn: [NITHIN LAWRANCE AV](www.linkedin.com/in/nithin-av-928597264')
     st.write('--'*50)
